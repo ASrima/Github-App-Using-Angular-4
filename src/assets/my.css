@@ -1,0 +1,13 @@
+body{
+    color:rgb(10, 41, 2);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+.form-control{
+    width: 20%;
+  position: relative;
+}
+.container-fluid{
+    max-width: 1366px;
+    margin: 50px auto;
+}
